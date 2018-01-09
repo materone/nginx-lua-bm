@@ -1,0 +1,6 @@
+#!/bin/sh
+#remove all file by make
+rm -fr /usr/src/*
+rm -fr /etc/nginx
+rm -fr /usr/sbin/nginx
+rm -fr /usr/lib/nginx
